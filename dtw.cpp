@@ -1,3 +1,7 @@
+/**
+ *并非dtw算法。只是参考dtw写的处理函数
+ */
+
 #include "dtw.hpp"
 #include <cstdio>
 #include <cstring>
